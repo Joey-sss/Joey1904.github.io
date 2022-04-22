@@ -64,7 +64,7 @@
 
     
         <script src="/js/valine/av-min@3.0.4.js"></script>
-        <script src="https://cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/valine@1.3.4/dist/Valine.min.js"></script>
     
 
     <!-- import link -->
@@ -1603,7 +1603,7 @@
 <!-- 具体js，请前往valine/script.ejs查看 -->
 
     <script>
-  var requiredFields = 'nick,mail';
+  var requiredFields = 'mail';
   requiredFields = requiredFields.split(',');
   comment_el = '.comment';
   let looperValine = null;
@@ -1618,7 +1618,7 @@
         app_key: "3qG3wT3sqiGNpB41LY7jMceI",
         placeholder: "客官，说点什么吧",
         avatar: "wavatar",
-        master: "45fe7912301bbb0b34fa12df92fe0982",   //博主邮箱md5
+        master: "",   //博主邮箱md5
         tagMeta: ["博主","小伙伴","访客"],     //标识字段名
         friends: "",
         metaPlaceholder: { "nick": "昵称/QQ号", "mail": "邮箱" },
