@@ -167,11 +167,11 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   }
 }
 ::-moz-selection {
-  background: rgba(66,185,131,0.8);
+  background: rgba(14,217,111,0.8);
   color: #fff;
 }
 ::selection {
-  background: rgba(66,185,131,0.8);
+  background: rgba(14,217,111,0.8);
   color: #fff;
 }
 .bg-floor {
@@ -479,7 +479,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
 }
 #l_side .side_recent_post {
   order: ;
-  background: #fff;
+  background: #dfc182;
 }
 #l_side .side_recent_post .aside-list .aside-list-item {
   padding: 0.5rem 0;
@@ -526,7 +526,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
 }
 #l_side .side_archives {
   order: ;
-  background: #fff;
+  background: #a0e6e3;
 }
 #l_side .side_archives .card-archive-list {
   list-style: none;
@@ -563,7 +563,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
 }
 #l_side .side_webinfo {
   order: ;
-  background: #fff;
+  background: #00e09e;
 }
 #l_side .side_webinfo .webinfo-item {
   display: block;
@@ -899,7 +899,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   height: 300px;
   display: flex;
   margin-top: 30px;
-  background: #fff;
+  background: #fcfee6;
   border-radius: 10px;
   overflow: hidden;
 }
