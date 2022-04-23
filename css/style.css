@@ -299,7 +299,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   flex-direction: column;
   align-items: stretch;
   border-radius: 10px;
-  background: #fff;
+  background: #fcf7f7;
 }
 #l_side .side_blogger .content >.avatar {
   align-self: center;
