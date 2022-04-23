@@ -2115,7 +2115,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   width: 100%;
   margin: 20px auto;
   margin-bottom: 0;
-  background: #fff;
+  background: url("https://ssyerv1.oss-cn-hangzhou.aliyuncs.com/picture/29347163e8ec4789ab5119a230e8af6a.png!sswm");
   box-shadow: 0 1px 20px -6px rgba(0,0,0,0.5);
   padding: 20px;
   padding-bottom: 40px;
@@ -2299,7 +2299,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   border-radius: 10px;
   box-sizing: border-box;
   transition: all 0.3s;
-  background: url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png");
+  background: url("https://ssyerv1.oss-cn-hangzhou.aliyuncs.com/picture/8c88e6d52ebb40beb80a0c43a3efe3de.png!sswm");
 }
 .index-notice .index-notice-icon {
   color: #f00;
